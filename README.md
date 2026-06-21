@@ -1,6 +1,7 @@
 # Credit Card Fraud Detection (Mid-Hackathon Project)
 
 This project implements a Machine Learning solution to detect fraudulent credit card transactions using highly imbalanced data.
+![Project Frontend GUI](gui_screenshot.png)
 
 ## 📊 Dataset Overview
 - **Total Transactions:** ~284,807
